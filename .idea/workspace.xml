@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5934b02-f68f-46b4-96cf-9a86400be048" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ToxfibcUV4Mz1I6HmjW3JlhM62" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mini_project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5934b02-f68f-46b4-96cf-9a86400be048" name="Default Changelist" comment="" />
+      <created>1574140354154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574140354154</updated>
+      <workItem from="1574140355511" duration="4773000" />
+      <workItem from="1574185966418" duration="19000" />
+      <workItem from="1574268916846" duration="4603000" />
+      <workItem from="1574342252011" duration="4721000" />
+      <workItem from="1574439179152" duration="5598000" />
+      <workItem from="1574486697916" duration="2540000" />
+      <workItem from="1574517791466" duration="4048000" />
+      <workItem from="1574571772900" duration="2978000" />
+      <workItem from="1574666340942" duration="2562000" />
+      <workItem from="1574684747776" duration="4097000" />
+      <workItem from="1575121245553" duration="2964000" />
+      <workItem from="1575302542819" duration="666000" />
+      <workItem from="1575378139583" duration="9817000" />
+      <workItem from="1575437319933" duration="3439000" />
+      <workItem from="1575443390671" duration="1294000" />
+      <workItem from="1575561329354" duration="5030000" />
+      <workItem from="1575655324564" duration="698000" />
+      <workItem from="1575701995900" duration="5695000" />
+      <workItem from="1575721366452" duration="5384000" />
+      <workItem from="1575781361871" duration="4048000" />
+      <workItem from="1575810336696" duration="3444000" />
+      <workItem from="1575898281288" duration="5020000" />
+      <workItem from="1575909111608" duration="10527000" />
+      <workItem from="1575984711752" duration="11452000" />
+      <workItem from="1576070965761" duration="208000" />
+      <workItem from="1576071307299" duration="151000" />
+      <workItem from="1576071656146" duration="11574000" />
+      <workItem from="1576217768847" duration="134000" />
+      <workItem from="1576246681117" duration="8427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1576246690614">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576246690614" />
+  </component>
+</project>
